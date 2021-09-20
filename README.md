@@ -7,3 +7,5 @@
 		wordsCount({"a", "bb", "b", "ccc"}, 1) --- 2
 		wordsCount({"a", "bb", "b", "ccc"}, 3) --- 1
 		wordsCount({"a", "bb", "b", "ccc"}, 4) ---> 0
+
+source: Udemy - Java Puzzles to Eliminate Code Fear by Imtiaz Ahmad 
